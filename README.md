@@ -6,7 +6,6 @@ Welcome to my IA 340 Repository for lab assignments and projects
 
 This repository contains code, notebooks, and data related to coursework in IA 340 at James Madison University. The goal is to demonstrate data analytics skills using Python, SQL, AWS, and AI tools.
 
-This is my course work: https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336
 This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336) course code.
 
 ## Contents
@@ -15,6 +14,10 @@ This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&co
 - Python Scripts
 - Lab Submissions
 - Project documentation
+
+1. lab1
+2. lab2
+3. lab3
 
 ## Contact
 
