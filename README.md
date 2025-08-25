@@ -16,5 +16,5 @@ This repository contains code, notebooks, and data related to coursework in IA 3
 ## Contact
 
 For academic purposes only
-**Name:** [Connor Quinn]
-**Email:** [Quinn6cm@dukes.jmu.edu]
+**Name:** Connor Quinn
+**Email:** Quinn6cm@dukes.jmu.edu
