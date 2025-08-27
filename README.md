@@ -15,7 +15,7 @@ This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&co
 - Lab Submissions
 - Project documentation
 
-1. lab1
+1. lab1: Set up Jupyter lab and load data from S3
 2. lab2
 3. lab3
 
