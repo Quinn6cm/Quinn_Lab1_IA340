@@ -15,8 +15,8 @@ This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&co
 - Lab Submissions
 - Project documentation
 
-1. lab1: Set up Jupyter lab and load data from S3
-2. lab2
+1. [lab1](https://github.com/Quinn6cm/Quinn_Lab1_IA340/blob/main/lab1.ipynb): Set up Jupyter lab and load data from S3
+2. [lab2](https://github.com/Quinn6cm/Quinn_Lab1_IA340/blob/main/lab2.ipynb): Begin to visualize data and clean data sets
 3. lab3
 
 ## Contact
